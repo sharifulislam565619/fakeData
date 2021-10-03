@@ -3,7 +3,7 @@
       "id": "1",
       "title": "HTML",
       "price": "$ 100",
-	  "info":"https://en.wikipedia.org/wiki/HTML"
+	  "info":"https://en.wikipedia.org/wiki/HTML",
       "img": "https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png",
       "desc": "The HyperText Markup Language, or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets and scripting languages such as JavaScript."
     },
@@ -11,7 +11,7 @@
       "id": "2",
       "title": "CSS",
       "price": "$ 120",
-	  "info":"https://en.wikipedia.org/wiki/CSS"
+	  "info":"https://en.wikipedia.org/wiki/CSS",
       "img": "https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png",
       "desc": "Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript"
     },
@@ -19,7 +19,7 @@
       "id": "3",
       "title": "Javascript",
       "price": "$ 200",
-	  "info":"https://en.wikipedia.org/wiki/JavaScript"
+	  "info":"https://en.wikipedia.org/wiki/JavaScript",
       "img": "https://thumbs.dreamstime.com/b/javascript-logo-javascript-logo-white-background-vector-format-available-136765881.jpg",
       "desc": "JavaScript, often abbreviated as JS, is a programming language that conforms to the ECMAScript specification. JavaScript is high-level, often just-in-time compiled, and multi-paradigm. It has curly-bracket syntax, dynamic typing, prototype-based object-orientation, and first-class functions"
     },
@@ -27,7 +27,7 @@
       "id": "4",
       "title": "React JS",
       "price": "$ 180",
-	  "info":"https://en.wikipedia.org/wiki/React"
+	  "info":"https://en.wikipedia.org/wiki/React",
       "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHLBGhlwOHLDVN1KlBL41ZTs_A_D-BI_EPcMv1jy3tiCmTCnump0c18IZyV-ANUaAjmyI&usqp=CAU",
       "desc": "React is a free and open-source front-end JavaScript library for building user interfaces or UI components. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications. "
     },
@@ -35,7 +35,7 @@
       "id": "5",
       "title": "Node JS",
       "price": "$ 160",
-	  "info":"https://en.wikipedia.org/wiki/Node.js"
+	  "info":"https://en.wikipedia.org/wiki/Node.js",
       "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWd9y4xl5PyJKNCnvUfcNNHxYz36QHZQ9wwa0w92VDrec76106TMg1maUpfgZ8lz4JlkI&usqp=CAU",
       "desc": "Node.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser."
     },
@@ -43,7 +43,7 @@
       "id": "6",
       "title": "Express JS",
       "price": "$ 170",
-	  "info":"https://en.wikipedia.org/wiki/Express.js"
+	  "info":"https://en.wikipedia.org/wiki/Express.js",
       "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBDLsZ9adES8sZ2BorxHgVRlfkMTlnREcsgA&usqp=CAU",
       "desc": "Express.js, or simply Express, is a back end web application framework for Node.js, released as free and open-source software under the MIT License. It is designed for building web applications and APIs. It has been called the de facto standard server framework for Node.js"
     },
@@ -51,7 +51,7 @@
       "id": "7",
       "title": "Mongo Db",
       "price": "$ 140",
-	  "info":"https://en.wikipedia.org/wiki/MongoDB"
+	  "info":"https://en.wikipedia.org/wiki/MongoDB",
       "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Mi83nQu9qdPUozHEodVGeu936klDJqJG3MiwDfqiWgI7G7hn0P-SRBhjVWUGzlk5Ca4&usqp=CAU",
       "desc": "MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas. MongoDB is developed by MongoDB Inc. and licensed under the Server Side Public License"
     },
@@ -59,7 +59,7 @@
       "id": "8",
       "title": "PHP",
       "price": "$ 205",
-	  "info":"https://en.wikipedia.org/wiki/PHP"
+	  "info":"https://en.wikipedia.org/wiki/PHP",
       "img": "https://clipart.info/images/ccovers/1499794873php-logo-filled-png.png",
       "desc": "PHP is a general-purpose scripting language geared towards web development. It was originally created by Danish-Canadian programmer Rasmus Lerdorf in 1994. The PHP reference implementation is now produced by The PHP Group."
     },
@@ -67,7 +67,7 @@
       "id": "9",
       "title": "C++",
       "price": "$ 220",
-	  "info":"https://en.wikipedia.org/wiki/C%2B%2B"
+	  "info":"https://en.wikipedia.org/wiki/C%2B%2B",
       "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png",
       "desc": "C++ is a general-purpose programming language created by Bjarne Stroustrup as an extension of the C programming language, or C with Classes"
     },
@@ -75,7 +75,7 @@
       "id": "10",
       "title": "Python",
       "price": "$ 225",
-	  "info":"https://en.wikipedia.org/wiki/Python_(programming_language)"
+	  "info":"https://en.wikipedia.org/wiki/Python_(programming_language)",
       "img": "https://seeklogo.com/images/P/python-logo-C50EED1930-seeklogo.com.png",
       "desc": "Python is an interpreted high-level general-purpose programming language. Its design philosophy emphasizes code readability with its use of significant indentation. Its language constructs as well as its object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects. "
     },
@@ -83,7 +83,7 @@
       "id": "11",
       "title": "C#",
       "price": "$ 235",
-	  "info":"https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"
+	  "info":"https://en.wikipedia.org/wiki/C_Sharp_(programming_language)",
       "img": "https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png",
       "desc": "C# is a general-purpose, multi-paradigm programming language. C# encompasses static typing, strong typing, lexically scoped, imperative, declarative, functional, generic, object-oriented, and component-oriented programming disciplines."
     },
@@ -91,7 +91,7 @@
       "id": "12",
       "title": "Ruby",
       "price": "$ 235",
-	  "info":"https://en.wikipedia.org/wiki/Ruby_(programming_language)"
+	  "info":"https://en.wikipedia.org/wiki/Ruby_(programming_language)",
       "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6_BZH0OeTXaLqJiMe8WQGLwFo2Ns6AsdPfFrJYOB-FeFS_vcMBhL4oY9I_ZuKg4E0IC0&usqp=CAU",
       "desc": "Ruby is an interpreted, high-level, general-purpose programming language. It was designed and developed in the mid-1990s by Yukihiro Matz Matsumoto in Japan. Ruby is dynamically typed and uses garbage collection and just-in-time compilation."
     }
